@@ -6,12 +6,12 @@ The purpose about this project is for,  in the future, I look back and see what 
 
 ---
 Progress of the technologies I learned:
-Git / Github: [ ]
-HTML / CSS: [ ]
-Sass / Scss: [ ]
-JavaScript and DOM: [ ]
-Typescript: [ ]
-Classes and Interfaces: [ ]
-Design Pattern: [ ]
-Package Manager: [ ]
-Angular: [ ]
+- [ ] Git / Github
+- [ ] HTML / CSS
+- [ ] Sass / Scss
+- [ ] JavaScript and DOM
+- [ ] Typescript
+- [ ] Classes and Interfaces
+- [ ] Design Pattern
+- [ ] Package Manager
+- [ ] Angular
